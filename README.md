@@ -19,7 +19,7 @@ I am an  Embedded Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :gear: Languages and Tools :
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cpp" alt="Cpp" width="40" height="40"/>&nbsp;
 <img src="https://github.com/saliansanthu97/saliansanthu97/assets/137671128/4f9e5f42-00fa-4790-afb0-ac8bf97daa85" title="STM32" alt="STM32" width="40" height="40"/>&nbsp;
