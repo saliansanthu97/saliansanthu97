@@ -13,7 +13,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am an  Embedded Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Frimware Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I'm working as an R&D Engineer, focusing on firmware development for embedded systems. 
 - :mailbox: How to reach me: <a href="https://www.linkedin.com/in/saliansanthu97"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" width="75" height="20"></a>
 
