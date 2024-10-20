@@ -21,7 +21,6 @@ I am a Frimware Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ### :gear: Languages and Tools :
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cpp" alt="Cpp" width="40" height="40"/>&nbsp;
 <img src="https://github.com/saliansanthu97/saliansanthu97/assets/137671128/4f9e5f42-00fa-4790-afb0-ac8bf97daa85" title="STM32" alt="STM32" width="40" height="40"/>&nbsp;
 <img src="https://github.com/saliansanthu97/saliansanthu97/assets/137671128/2eeaba21-1ba5-4a6b-aa6c-296f0db2f1fa" title="STM32CUBEIDE" alt="STM32CUBEIDE" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-plain-wordmark.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
